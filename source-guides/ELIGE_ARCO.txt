@@ -1,0 +1,607 @@
+ELIGE TU ARCO
+Guía de producción para la mini-clase en video
+CHOOSE YOUR BOW
+Video production guide (English version included below)
+Formato: cabeza parlante (OBS) + b-roll  |  Arcos: Recurvo · Genesis · Compuesto
+
+PARTE 1 — EL PLAN (léelo primero)
+Esta guía convierte tu idea en algo grabable: sabes exactamente qué decir a cámara, qué b-roll 
+buscar, y cómo cerrar cada video para que la gente siga viendo y termine tomando tu próxima 
+clase.
+¿Por qué una mini-serie de 5 videos cortos y no un solo video largo?
+Con base en cómo la gente realmente aprende y termina contenido, y en cómo eso te ayuda a 
+vender más clases, te recomiendo dividir la clase en 5 videos cortos (3–5 min cada uno) en vez 
+de uno solo de 15-20 min:
+
+Aprendizaje por bloques: La gente retiene mejor la información en "bocados" (chunking). 
+Un video = un arco = una idea clara. Nadie sale confundido mezclando los tres arcos en su 
+cabeza.
+
+Gancho de continuidad: Cada video cierra con un gancho hacia el siguiente ("en el próximo 
+video te enseño el arco que usan miles de escuelas en EE.UU."). Esto es lo que hacen las 
+series y los cursos con buena retención: dejar un ciclo abierto.
+
+Tasa de finalización: Un video de 3-4 min tiene muchas más probabilidades de verse 
+completo que uno de 18 minutos. Terminar el video = el algoritmo lo empuja más = más 
+gente lo ve.
+
+Más puntos de contacto = más ventas: 5 videos cortos son 5 oportunidades de aparecer en 
+el feed de alguien, 5 momentos para invitar a la clase en persona, y contenido fácil de 
+repetir en Reels/Shorts recortando un fragmento de cada uno.
+
+Más fácil de producir: Grabas cada episodio en una sola sesión corta (menos cansancio, 
+menos errores, menos edición pesada por video).
+Si en algún momento prefieres condensarlo en un solo video (por ejemplo para un webinar en 
+vivo), la misma estructura funciona — simplemente une los 5 guiones con transiciones cortas en 
+vez de despedidas. Pero para grabación individual en OBS, la serie de 5 es la opción más fácil y 
+con mejor resultado.
+Estructura de la serie
+Episodio
+Tema
+Duración
+Objetivo
+Ep. 1
+Bienvenida + Historia 
+rápida
+3 min
+Enganchar + dar 
+contexto + prometer el 
+resultado final
+Ep. 2
+Arco Recurvo
+4 min
+Historia + partes + para 
+quién es
+Ep. 3
+Arco Genesis
+4 min
+Historia + partes + para 
+quién es
+Ep. 4
+Arco Compuesto
+4-5 min
+Historia + partes + para 
+
+quién es
+Ep. 5
+¿Cuál es tu arco? 
+(cierre)
+4-5 min
+Recapitulación + 
+framework de decisión 
++ CTA a tu próxima 
+clase
+La fórmula de cada episodio (úsala siempre igual)
+1.
+GANCHO (primeros 5-8 segundos): una pregunta o dato que detiene el scroll. Nunca 
+empieces con "hola, bienvenidos de nuevo".
+2.
+CONTENIDO (cuerpo): la historia/dato curioso, luego las partes explicadas simple, con b-roll 
+de apoyo.
+3.
+PARA QUÉ SIRVE / PARA QUIÉN ES: 2-3 frases conectando el arco con un tipo de persona.
+4.
+CIERRE + GANCHO AL SIGUIENTE: una línea que invita a ver el próximo episodio o (en el Ep. 
+5) a inscribirse a la clase en persona.
+Habla como si le explicaras esto a un amigo que nunca ha tocado un arco — igual que ya lo 
+tenías pensado. Evita sonar como manual técnico; los datos de "partes del arco" tradúcelos 
+siempre a por qué le importa a un principiante, no solo el nombre técnico.
+Notas rápidas de producción (OBS)
+
+Graba primero todos los b-roll de los 3 arcos el mismo día (mismo set, misma luz) y después 
+graba los 5 cierres a cámara — así no cambias de escenario 5 veces.
+
+Dedica una toma de b-roll fija para "partes del arco": arco en un tripié/soporte, cámara 
+cenital o de lado, y ve señalando cada parte en la edición con texto en pantalla en vez de 
+sostenerlo tú (más limpio y repetible para los 3 arcos).
+
+Dale a cada episodio el mismo intro visual de 2 segundos (logo o texto "Elige tu Arco Ep. X") 
+para que se sienta serie, no videos sueltos.
+
+Termina cada video con una tarjeta de texto en pantalla con el título del siguiente episodio 
+— refuerza el gancho hablado.
+
+PARTE 2 — GUIONES EN ESPAÑOL
+Episodio 1 — Bienvenida + Historia rápida del tiro con arco (≈3 min)
+Gancho (cámara, primeros 5-8 seg)
+“Si alguna vez has visto tres tipos de arco en una tienda y no supiste ni por dónde empezar... 
+quédate, porque en los próximos 4 videos te voy a enseñar exactamente cuál te conviene a TI.”
+Cuerpo — historia y datos curiosos
+Cuenta, en tus palabras y con tu tono de ‘amigo explicando’, estos puntos (no los leas textual, 
+apóyate en ellos):
+
+El tiro con arco es viejísimo: las puntas de flecha más antiguas encontradas tienen unos 
+64,000 años, y el arco completo más antiguo (encontrado en un pantano en Dinamarca) 
+tiene unos 8,000 años.
+
+Durante casi toda la historia humana, el arco fue para cazar y para la guerra — imperios 
+enteros se construyeron gracias a mejores arcos y arqueros (los mongoles son el ejemplo 
+más famoso).
+
+Cuando llegaron las armas de fuego, el arco casi desapareció... hasta que en el 1600 la 
+aristocracia europea lo revivió como pasatiempo, y de ahí nació el tiro con arco deportivo 
+que conocemos hoy.
+
+El tiro con arco fue olímpico en 1900, 1904, 1908 y 1920 — y luego desapareció 52 años por 
+falta de reglas uniformes. Regresó para quedarse en 1972.
+
+Dato divertido: el tiro con arco es, según estudios, 3 veces más seguro que el golf. Y Bután es 
+el único país del mundo donde el tiro con arco es el deporte NACIONAL oficial.
+Preview — presenta los 3 arcos (una línea cada uno)
+
+El Recurvo: el clásico, el que ves en los Juegos Olímpicos.
+
+El Genesis: el que usan miles de escuelas en Estados Unidos para enseñar desde cero.
+
+El Compuesto: el de poleas, el que usan cazadores y tiradores que buscan máxima precisión.
+Cierre + gancho al Episodio 2
+“En el próximo video empezamos con el arco más clásico de los tres: el recurvo. Te voy a contar 
+de dónde viene su nombre y por qué sigue siendo el único arco olímpico. Nos vemos ahí.”
+Episodio 2 — Arco Recurvo (≈4 min)
+Gancho
+“Este es el arco que probablemente ya te imaginas cuando piensas en ‘tiro con arco’ — y tiene 
+un truco de diseño de más de 3,000 años que lo hace más rápido sin ser más grande.”
+
+Historia y datos curiosos
+
+El diseño ‘recurvo’ (las puntas de las varillas se curvan hacia afuera) tiene evidencia de al 
+menos 1600 a.C. en Egipto y Medio Oriente — algunos historiadores lo remontan aún más 
+atrás, con los asirios.
+
+Lo usaron egipcios, persas, escitas, griegos, romanos, coreanos, chinos... y sobre todo los 
+mongoles, cuyos arcos recurvos cortos y potentes, disparados a caballo, ayudaron a 
+construir el imperio más grande de la historia.
+
+El nombre ‘recurvo’ viene justo de eso: al curvar las puntas de las varillas en dirección 
+contraria al arquero, el arco guarda más energía sin tener que ser más largo — o sea, más 
+potencia en un arco más manejable.
+
+Desde 1972 fue, por décadas, el ÚNICO tipo de arco permitido en los Juegos Olímpicos (el 
+compuesto recién se suma en una categoría mixta a partir de 2028).
+Partes explicadas simple (con b-roll de apoyo, señalando en pantalla)
+
+Riser: El riser (o empuñadura): la parte central donde agarras el arco. Ahí está también la 
+ventana de mira.
+
+Limbs (varillas): Superior e inferior, se atornillan al riser. Son las que se doblan y guardan la 
+energía cuando jalas la cuerda — son el ‘motor’ del arco.
+
+Cuerda: Conecta las puntas de las dos varillas y es lo que empuja la flecha.
+
+Reposaflechas: Donde se apoya la flecha antes de disparar.
+
+Dato clave para principiantes: Muchos recurvos son ‘desarmables’ (takedown): puedes 
+cambiar solo las varillas por unas más fuertes cuando ganes técnica, sin comprar un arco 
+nuevo completo.
+¿Para quién es?
+Para alguien que quiere el reto “técnico y clásico”, le atrae la idea olímpica, no le importa 
+invertir tiempo en aprender buena forma, y quiere un arco que ‘crezca’ con él/ella cambiando 
+solo las varillas.
+Cierre + gancho al Episodio 3
+“Ahora, si el recurvo te suena bien pero quieres empezar más fácil y más económico, en el 
+próximo video te presento el arco que usan más de 4 millones de estudiantes en Estados Unidos 
+para aprender desde cero: el Genesis.”
+Episodio 3 — Arco Genesis (≈4 min)
+Gancho
+“Este es el arco más ‘a prueba de todo’ de los tres — lo diseñaron para que un solo modelo le 
+quede bien a CUALQUIER persona, sin ajustes.”
+
+Historia y datos curiosos
+
+El Genesis nació para el programa NASP (National Archery in the Schools Program), creado 
+en Kentucky en el 2002 junto con el Departamento de Educación.
+
+Hoy el programa está en casi 10,000 escuelas, con más de 4 millones de estudiantes 
+participantes en 47 estados de EE.UU. y 5 países.
+
+El objetivo detrás del Genesis era resolver un problema real: en una clase de 30 estudiantes 
+de tallas y fuerzas distintas, no puedes tener 30 arcos ajustados a la medida de cada quien 
+— necesitas UN diseño que le sirva a todos por igual.
+Partes explicadas simple
+
+Una sola ‘cam’ (polea): A diferencia del compuesto (que tiene dos), el Genesis usa solo una 
+polea excéntrica — esto da un disparo más suave, con menos retroceso y menos ruido.
+
+Rueda guía (idler wheel): Es la rueda que ayuda a guiar la cuerda — casi no necesita 
+mantenimiento.
+
+Sin longitud de tiro fija (universal): Aquí está lo más importante para un principiante: el 
+Genesis NO tiene ‘draw length’ fijo — o sea, no importa qué tan largos tengas los brazos ni 
+tu estatura, el mismo arco se ajusta a tu forma de tirar.
+
+Peso de tiro ajustable: Va de 10 a 20 libras — ligero para empezar, pero con la sensación de 
+un arco recurvo de unas 35 libras gracias a su diseño, así que sí se siente ‘real’.
+¿Para quién es?
+Para quien quiere probar el tiro con arco sin comprometerse de entrada, para familias con 
+niños, para grupos, o para quien busca la opción más económica y de menor mantenimiento 
+para tirar de vez en cuando.
+Cierre + gancho al Episodio 4
+“Si lo tuyo es más caza, velocidad y precisión — y no te importa invertir un poco más — el 
+próximo arco te va a encantar. Nació de un cazador que quería que su flecha llegara al venado 
+antes de que se moviera. Te cuento su historia en el próximo video.”
+Episodio 4 — Arco Compuesto (≈4-5 min)
+Gancho
+“Este arco existe gracias a un cazador de Missouri que en los años 60 agarró una sierra, le cortó 
+las puntas a un arco recurvo, y le puso poleas de avión. En serio.”
+Historia y datos curiosos
+
+Lo inventó Holless Wilbur Allen en 1966. Su motivación, en sus propias palabras: quería un 
+arco que llevara la flecha a un venado a 10-25 yardas antes de que el animal pudiera 
+moverse.
+
+
+Cortó las puntas de un recurvo casero, le montó poleas pequeñas de avión, y descubrió el 
+efecto de ‘polea compuesta’ (block-and-tackle) que le daba más velocidad con menos 
+esfuerzo.
+
+Obtuvo la patente en 1969 y se asoció con el fabricante Tom Jennings para producirlo en 
+serie — así nació la industria del arco compuesto moderno.
+
+Dato agridulce: Allen murió en un accidente automovilístico en 1979, sin llegar a ver todo lo 
+que su invento cambiaría la caza y el tiro deportivo en el mundo entero.
+Partes explicadas simple
+
+Cams (poleas): Dos poleas excéntricas (una en cada punta de las varillas) que giran mientras 
+jalas la cuerda — son las responsables de la ventaja mecánica del arco.
+
+Cables: Trabajan junto con las poleas para transmitir la fuerza.
+
+Let-off (alivio de tensión): Esta es LA gran diferencia con el recurvo y el Genesis: gracias a 
+las poleas, cuando llegas al punto máximo de tensión, el peso que sostienes baja muchísimo 
+(típicamente 65%-90% menos). Ejemplo: en un arco de 70 libras con 85% de let-off, en el 
+punto de anclaje solo sostienes unas 10-11 libras — puedes apuntar con calma sin cansarte.
+
+Release aid: En vez de soltar con los dedos como en el recurvo o el Genesis, el compuesto 
+casi siempre se dispara con un ‘release’ (un gatillo de mano) para más consistencia.
+
+Peep sight: Un anillo que se alinea con la mira para asegurar que siempre anclas en el 
+mismo punto — más precisión.
+¿Para quién es?
+Para quien quiere ir a cazar, competir en tiro de precisión, o simplemente disfruta la parte 
+‘técnica/mecánica’ del equipo y no le importa invertir más dinero de entrada a cambio de más 
+velocidad y precisión con menos esfuerzo físico.
+Cierre + gancho al Episodio 5
+“Ya viste los tres. Ahora, en el último video de esta mini-serie, te voy a dar una guía súper simple 
+para que en 2 minutos sepas exactamente cuál de los tres es EL TUYO — y cómo dar el siguiente 
+paso.”
+Episodio 5 — ¿Cuál es tu arco? (cierre + framework de decisión) (≈4-5 min)
+Gancho
+“Si viste los tres videos anteriores, ya sabes lo básico de cada arco. Ahora vamos a resolverlo 
+juntos con 4 preguntas rápidas.”
+Recapitulación ultra rápida (1 línea cada uno, con b-roll de los 3 arcos)
+
+Recurvo: El clásico técnico y olímpico.
+
+Genesis: El más sencillo y económico para empezar.
+
+Compuesto: El de más potencia y precisión, con más inversión.
+
+El framework de decisión — dilo a cámara como si lo estuvieras resolviendo en vivo
+5.
+¿Qué quieres lograr? Si es socializar, hacer ejercicio o ‘solo probar’ → Genesis o Recurvo. Si 
+sueñas con competir estilo olímpico → Recurvo. Si es cacería o quieres la máxima precisión 
+con el menor esfuerzo físico → Compuesto.
+6.
+¿Cuál es tu presupuesto? El Genesis es el más económico. El Recurvo es de entrada 
+económico-medio y puede ‘crecer’ contigo cambiando solo las varillas. El Compuesto pide la 
+mayor inversión inicial por su mecanismo.
+7.
+¿Qué tan seguido vas a tirar? Ocasional o ‘de vez en cuando’ → Genesis (el más simple de 
+mantener). Un hobby que planeas ir profundizando → Recurvo. Algo serio, frecuente, de 
+caza o competencia → Compuesto.
+8.
+¿Qué espacio tienes? Los tres funcionan perfecto en un rango indoor. El Compuesto 
+necesita más ajuste/tuning técnico. El Recurvo pide espacio para trabajar bien tu postura. El 
+Genesis es el más simple de transportar y guardar.
+CTA final
+“Escribe en los comentarios cuál de los tres crees que es tu arco — y si quieres probarlo con tus 
+propias manos (que es la única forma de estar 100% seguro), te espero en la próxima clase en 
+persona / [inserta tu link o cómo reservar]. Nos vemos ahí.”
+
+TABLA RÁPIDA DE REFERENCIA / QUICK REFERENCE TABLE
+Úsala como gráfico en pantalla en el Episodio 5, o como chuleta (cheat sheet) mientras grabas. / 
+Use this as an on-screen graphic in Episode 5, or as a cheat sheet while filming.
+Arco / Bow
+Objetivo / Goal
+Presupuesto / 
+Budget
+Compromiso / 
+Commitment
+Espacio / Space
+Recurvo / Recurve
+Técnico, olímpico, 
+crece contigo
+Technical, 
+Olympic-style, 
+grows with you
+Bajo-medio 
+(varillas se 
+cambian)
+Low-mid (limbs 
+upgrade)
+Hobby en 
+crecimiento
+Growing hobby
+Requiere buena 
+técnica
+Needs good form 
+space
+Genesis
+Probar / familias / 
+grupos
+Trying it out / 
+families / groups
+El más económico
+Lowest cost
+Ocasional
+Casual
+El más simple de 
+guardar
+Simplest to store
+Compuesto / 
+Compound
+Caza / precisión 
+competitiva
+Hunting / 
+competitive 
+precision
+Mayor inversión
+Highest 
+investment
+Serio / frecuente
+Serious / frequent
+Requiere más 
+ajuste técnico
+Needs more 
+tuning
+
+PART 3 — ENGLISH VERSION
+The plan, in short
+Same structure as the Spanish version above: a 5-episode mini-series (3-5 min each), talking-
+head + b-roll, one bow per episode, ending in a decision framework and a call-to-action into 
+your next in-person class.
+
+Chunking: one video = one bow = one clear idea. Nobody leaves confusing the three.
+
+Open loop: each episode closes with a hook into the next one — this is what keeps 
+completion and series-watch rates high.
+
+Completion rate: a 3-4 min video is far more likely to be watched to the end than an 18-
+minute one.
+
+More touchpoints = more bookings: 5 short videos are 5 chances to show up in someone's 
+feed and 5 invitations into your in-person class.
+
+Easier to produce: record all three bows' b-roll in one session, then record all 5 talking-head 
+closes in one sitting.
+Episode
+Topic
+Length
+Goal
+Ep. 1
+Welcome + Quick 
+history
+3 min
+Hook + context + 
+promise the payoff
+Ep. 2
+Recurve Bow
+4 min
+History + parts + who 
+it's for
+Ep. 3
+Genesis Bow
+4 min
+History + parts + who 
+it's for
+Ep. 4
+Compound Bow
+4-5 min
+History + parts + who 
+it's for
+Ep. 5
+Which bow is yours? 
+(close)
+4-5 min
+Recap + decision 
+framework + CTA to 
+your next class
+Episode 1 — Welcome + a quick history of archery (~3 min)
+Hook (first 5-8 seconds)
+“If you've ever stood in an archery shop looking at three totally different bows with no idea 
+where to start — stay with me, because over the next four videos I'll show you exactly which one 
+is right for YOU.”
+
+Body — history and fun facts
+
+Archery is ancient: the oldest arrowheads found are around 64,000 years old, and the oldest 
+complete bow ever found (pulled from a bog in Denmark) is about 8,000 years old.
+
+For most of human history, the bow was a weapon of hunting and war — entire empires 
+were built on superior bows and archers, the Mongols being the most famous example.
+
+When firearms arrived, archery nearly disappeared... until European aristocracy revived it as 
+a pastime in the 1600s, which is where modern sport archery comes from.
+
+Archery was an Olympic sport in 1900, 1904, 1908, and 1920 — then vanished for 52 years 
+due to a lack of standardized rules, before returning for good in 1972.
+
+Fun fact: studies have found archery to be about 3 times safer than golf. And Bhutan is the 
+only country in the world where archery is the official national sport.
+Preview the three bows (one line each)
+
+Recurve: the classic one, the bow you see at the Olympics.
+
+Genesis: the bow used by thousands of U.S. schools to teach archery from zero.
+
+Compound: the pulley bow, used by hunters and precision shooters.
+Close + hook to Episode 2
+“Next video, we start with the most classic of the three: the recurve. I'll tell you where its name 
+comes from and why it's still the only bow allowed at the Olympics. See you there.”
+Episode 2 — The Recurve Bow (~4 min)
+Hook
+“This is probably the bow you picture when you think ‘archery’ — and it has a 3,000+ year old 
+design trick that makes it faster without making it bigger.”
+History and fun facts
+
+The ‘recurve’ design (limb tips curving away from the archer) has evidence dating to at least 
+1600 BCE in Egypt and the Near East — some historians trace it back even further, to the 
+Assyrians.
+
+It was used by Egyptians, Persians, Scythians, Greeks, Romans, Koreans, Chinese... and 
+above all the Mongols, whose short, powerful recurves fired from horseback helped build 
+the largest empire in history.
+
+The name comes from exactly that: curving the limb tips away from the archer lets the bow 
+store more energy without needing to be longer — more power in a more manageable bow.
+
+Since 1972 it was, for decades, the ONLY bow type allowed at the Olympics (compound is 
+only being added in a mixed event starting in 2028).
+Parts explained simply (with supporting b-roll, labeled on screen)
+
+Riser: The center piece you hold. It also has the sight window.
+
+
+Limbs: Upper and lower, bolt onto the riser. They bend and store the energy when you draw 
+the string — the bow's ‘engine.’
+
+String: Connects the limb tips and is what actually propels the arrow.
+
+Arrow rest: Where the arrow rests before the shot.
+
+Key fact for beginners: Many recurves are ‘takedown’ bows — you can swap just the limbs 
+for stronger ones as your technique improves, without buying a whole new bow.
+Who it's for
+Someone who wants the classic, technical challenge, likes the Olympic angle, doesn't mind 
+investing time in good form, and wants a bow that can ‘grow’ with them by swapping limbs.
+Close + hook to Episode 3
+“Now, if the recurve sounds good but you want something easier and cheaper to start with, next 
+video I'll introduce the bow used by over 4 million students across the U.S. to learn from scratch: 
+the Genesis.”
+Episode 3 — The Genesis Bow (~4 min)
+Hook
+“This is the most ‘one-size-fits-all’ bow of the three — designed so a single model fits literally 
+anyone, no adjustments needed.”
+History and fun facts
+
+The Genesis was built for NASP (National Archery in the Schools Program), created in 
+Kentucky in 2002 together with the state Department of Education.
+
+Today the program reaches nearly 10,000 schools, with more than 4 million students having 
+participated across 47 U.S. states and 5 countries.
+
+The problem it solved was real: in a class of 30 students of different sizes and strengths, you 
+can't fit 30 individually-sized bows — you need ONE design that works equally well for 
+everyone.
+Parts explained simply
+
+Single cam: Unlike the compound (which has two), Genesis uses a single eccentric cam — 
+giving a smoother shot with less recoil and noise.
+
+Idler wheel: The wheel that helps guide the string — needs almost no maintenance.
+
+No fixed draw length (universal fit): This is the key thing for beginners: Genesis has no fixed 
+draw length — it doesn't matter how tall you are or how long your arms are, the same bow 
+adjusts to your draw.
+
+Adjustable draw weight: Ranges 10-20 lbs — light to start, but feels like a ~35-lb recurve 
+thanks to its design, so it still feels ‘real.’
+
+Who it's for
+Someone who wants to try archery with no big commitment up front, families with kids, groups, 
+or anyone looking for the cheapest, lowest-maintenance option for occasional shooting.
+Close + hook to Episode 4
+“If you're more into hunting, speed, and precision — and don't mind investing a bit more — 
+you're going to love the next bow. It was born from a hunter who wanted his arrow to reach a 
+deer before it could move. I'll tell you his story in the next video.”
+Episode 4 — The Compound Bow (~4-5 min)
+Hook
+“This bow exists because a hunter in Missouri grabbed a saw in the 1960s, cut the tips off a 
+recurve, and bolted on airplane pulleys. Seriously.”
+History and fun facts
+
+Invented by Holless Wilbur Allen in 1966. In his own words, he wanted a bow that could get 
+an arrow to a deer at 10-25 yards before the animal could move.
+
+He cut the tips off a homemade recurve, mounted small aircraft pulleys on it, and stumbled 
+onto the ‘block-and-tackle’ effect that delivered more speed with less effort.
+
+He was granted a patent in 1969 and partnered with bowmaker Tom Jennings to 
+manufacture it — the start of the modern compound bow industry.
+
+Bittersweet fact: Allen died in a car accident in 1979, never seeing the full extent of how his 
+invention would reshape hunting and target archery worldwide.
+Parts explained simply
+
+Cams: Two eccentric wheels (one at each limb tip) that rotate as you draw the string — 
+they're responsible for the bow's mechanical advantage.
+
+Cables: Work together with the cams to transfer force.
+
+Let-off: This is THE big difference from the recurve and Genesis: thanks to the cams, once 
+you reach full draw, the weight you're holding drops dramatically (typically 65%-90% less). 
+Example: on a 70-lb bow with 85% let-off, you're only holding about 10-11 lbs at full draw — 
+plenty of time to aim calmly without fatigue.
+
+Release aid: Instead of releasing with your fingers like on a recurve or Genesis, compounds 
+are almost always fired with a mechanical release for more consistency.
+
+Peep sight: A small ring that lines up with the sight to make sure you anchor in the exact 
+same spot every time — more precision.
+Who it's for
+Someone who wants to hunt, compete in precision target archery, or simply enjoys the 
+technical/mechanical side of the gear, and doesn't mind a bigger upfront investment in 
+exchange for more speed and accuracy with less physical strain.
+
+Close + hook to Episode 5
+“You've now seen all three. In the final video of this mini-series, I'll give you a super simple guide 
+so that in two minutes you'll know exactly which of the three is YOURS — and how to take the 
+next step.”
+Episode 5 — Which bow is yours? (close + decision framework) (~4-5 min)
+Hook
+“If you watched the previous three videos, you already know the basics of each bow. Now let's 
+solve this together with four quick questions.”
+Ultra-quick recap (one line each, with b-roll of all three bows)
+
+Recurve: The classic, technical, Olympic one.
+
+Genesis: The simplest, most affordable way to start.
+
+Compound: The most power and precision, at a higher investment.
+The decision framework — deliver it to camera as if solving it live
+9.
+What's your goal? Social, fitness, or ‘just trying it’ → Genesis or Recurve. Dreaming of 
+Olympic-style competition → Recurve. Hunting, or max precision with the least physical 
+effort → Compound.
+10. What's your budget? Genesis is the most affordable. Recurve starts low-to-mid and can 
+‘grow’ with you by swapping limbs. Compound asks for the biggest upfront investment due 
+to its mechanism.
+11. How often will you shoot? Occasional / every once in a while → Genesis (simplest to 
+maintain). A hobby you plan to grow into → Recurve. Something serious, frequent, hunting 
+or competitive → Compound.
+12. What space do you have? All three work great at an indoor range. Compound needs more 
+technical tuning. Recurve needs room to work on good form. Genesis is the simplest to 
+transport and store.
+Final CTA
+“Comment below which of the three you think is your bow — and if you want to try it with your 
+own hands (the only way to really know), I'll see you at the next in-person class / [insert your 
+booking link]. See you there.”
+
+FUENTES / SOURCES
+Datos históricos y técnicos verificados con:
+
+World Archery — worldarchery.sport/sport/history
+
+Archery360 — archery360.com (fun facts, recurve anatomy)
+
+NASP Schools — naspschools.org (NASP history, Genesis kit)
+
+KHSAA / NJ DEP Genesis Bow Owner's Manual (Genesis specs)
+
+FWC Florida / NASP origins — myfwc.com/education/programs/archery/origins
+
+Wikipedia — Recurve bow; Compound bow; Holless Wilbur Allen
+
+Archery Supplier / Legend Archery — let-off and cam explanations
+
+Online Archery Academy / Lancaster Archery Supply — recurve bow parts
