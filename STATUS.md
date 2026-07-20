@@ -31,8 +31,11 @@ Chromium path in scripts: /opt/pw-browsers/chromium-1194/chrome-linux/chrome
 |---|---|---|
 | 1. Choose Your Bow (EN) | ✅ done | ✅ done |
 | 2. Elige Tu Arco (ES) | ✅ done | ✅ done |
-| 3. Archery From Zero (EN) | ⬜ TODO | ⬜ TODO |
-| 4. Arquería Desde Cero (ES) | ⬜ TODO | ⬜ TODO |
+| 3. Archery From Zero (EN) | ✅ done (23 cards) | ✅ done |
+| 4. Arquería Desde Cero (ES) | ⬜ TODO (next) | ⬜ TODO |
+
+_Note: in THIS repo files live at the repo root (e.g. `archery-from-zero-en/`), not under `presentations/`._
+_AFZ EN = 23 cards (cover, safety, title+content per lesson, 8-step infographic, closing). Build: `archery-from-zero-en/cards/build-cards.py`. Next: translate to Spanish → `arqueria-desde-cero-es/`._
 
 ### Delivered files (all in repo + sent in chat)
 - `presentations/choose-your-bow-en/cards/` — ChooseYourBow_EN_Cards.pdf + 20 PNGs
